@@ -1,7 +1,7 @@
 ## Hi there 👋
 #- 🔭 I’m currently working on ...FullStockDevelop:)
 
-#- 🌱 I’m currently learning ...Database
+#- 🌱 I’m currently learning ...React!
 
 <!--
 **Angie-newbie/Angie-newbie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
