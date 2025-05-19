@@ -1,19 +1,5 @@
-## Hi there 👋
-#- 🔭 I’m currently working on ...FullStockDevelop:)
-
-#- 🌱 I’m currently learning ...React!
-
-<!--
-**Angie-newbie/Angie-newbie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...FullStockDevelop:)
-- 🌱 I’m currently learning ...Frontend
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: .....
--->
+# 💻 
+- Frontend : HTML, C++, JavaScript, React
+- Backend: Python, Flask, Node.js, ExpressJS
+- Database: PostgreSQL, MongoDB, MongooseJs
+- Cloud: AWS
