@@ -1,5 +1,5 @@
-#👋 Hey there!
-## I'm a creative problem solver who’s passionate about building things that make life easier or more beautiful! whether it's through code or design.
+# 👋Hello!
+I'm a creative problem solver who’s passionate about building things that make life easier or more beautiful! whether it's through code or design.
 
 #💻 What I build with
 - Frontend: HTML, CSS, JavaScript, React
